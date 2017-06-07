@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "531752782789",
+    "firebase_url": "https://livechat-edc36.firebaseio.com",
+    "project_id": "livechat-edc36",
+    "storage_bucket": "livechat-edc36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531752782789:android:a3f2f99f4be3857f",
+        "android_client_info": {
+          "package_name": "com.example.park.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531752782789-nveq0c4m9uge9dv5e0pg3t8ja4sj9sal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWA5prtTha_0mQwbxD_F0NgGzJqT8EtTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531752782789:android:1dc8550b1a7dce08",
+        "android_client_info": {
+          "package_name": "com.dalpeng.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531752782789-nveq0c4m9uge9dv5e0pg3t8ja4sj9sal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWA5prtTha_0mQwbxD_F0NgGzJqT8EtTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
